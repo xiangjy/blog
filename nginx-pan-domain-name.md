@@ -3,9 +3,6 @@ title: Nginx进行泛域名解析
 date: 2018-02-07 17:55:52
 tags: nginx
 ---
-### 主要目的：
-在微信中做H5游戏页面，为了防止微信封域名导致网站全部H5都被禁。
-
 ### 主要实现：
     xxx.domain2.domain1.com -> domain2.domain1.com/xxx
     xxx.domain2.domain1.com -> domain2.domain1.com/?id=xxx
